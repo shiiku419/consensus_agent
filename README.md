@@ -1,5 +1,4 @@
 # consensus_agent
-sayama_consensus
 ================
 
 Agent based model of group decision making based on work by Sayama et al (2011). Implemented in Python2 and converted to Python3.
